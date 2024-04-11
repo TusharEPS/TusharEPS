@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TusharEPS
-- 👀 I’m interested in becoming Identity & Access manager 
-- 🌱 I’m currently learning CyberArk
+- 👀 I’m interested in becoming a Data Analyst
+- 🌱 I’m currently learning Python
 - 📫 How to reach me tushararora107@gmail.com
 
 <!---
