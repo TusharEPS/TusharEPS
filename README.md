@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TusharEPS
 - 👀 I’m interested in becoming a Identity and Access Manager
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning OKTA, Sailpoint and Cyberark
 - 📫 How to reach me tushararora107@gmail.com
 
 <!---
