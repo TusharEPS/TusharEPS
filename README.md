@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TusharEPS
-- 👀 I’m interested in becoming a Data Analyst
+- 👀 I’m interested in becoming a Identity and Access Manager
 - 🌱 I’m currently learning Python
 - 📫 How to reach me tushararora107@gmail.com
 
